@@ -1,0 +1,5 @@
+Dataset,RF Base F1,RF FROID F1 (Article),RF Proposed F1 (Thesis),LR Base F1,LR FROID F1 (Article),LR Proposed (ElasticNet),Gain vs Article (%)
+ecoli1,0.8063,0.7647,0.7631,0.7434,0.7434,0.7522,-0.21%
+yeast1,0.5587,0.5756,0.5660,0.4467,0.4524,0.4713,-1.67%
+haberman,0.3109,0.3335,0.2928,0.2273,0.2273,0.2527,-12.20%
+glass1,0.8069,0.8452,0.8568,0.6149,0.6149,0.5898,+1.36%
