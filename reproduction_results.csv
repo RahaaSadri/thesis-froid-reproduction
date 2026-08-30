@@ -1,0 +1,3 @@
+Dataset,Base F1 (Minority),FROID F1 (Minority),Base ROC-AUC,FROID ROC-AUC
+ecoli1,0.7983 ± 0.125,0.8076 ± 0.119,0.9566 ± 0.032,0.9628 ± 0.029
+yeast1,0.5587 ± 0.046,0.5756 ± 0.045,0.8182 ± 0.010,0.8158 ± 0.018
